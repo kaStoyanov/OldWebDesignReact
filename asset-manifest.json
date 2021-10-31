@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/OldWebDesignReact/static/css/main.cbb7af86.chunk.css",
+    "main.js": "/OldWebDesignReact/static/js/main.b483cc12.chunk.js",
+    "main.js.map": "/OldWebDesignReact/static/js/main.b483cc12.chunk.js.map",
+    "runtime-main.js": "/OldWebDesignReact/static/js/runtime-main.642bf71e.js",
+    "runtime-main.js.map": "/OldWebDesignReact/static/js/runtime-main.642bf71e.js.map",
+    "static/js/2.173d6af0.chunk.js": "/OldWebDesignReact/static/js/2.173d6af0.chunk.js",
+    "static/js/2.173d6af0.chunk.js.map": "/OldWebDesignReact/static/js/2.173d6af0.chunk.js.map",
+    "index.html": "/OldWebDesignReact/index.html",
+    "static/css/main.cbb7af86.chunk.css.map": "/OldWebDesignReact/static/css/main.cbb7af86.chunk.css.map",
+    "static/js/2.173d6af0.chunk.js.LICENSE.txt": "/OldWebDesignReact/static/js/2.173d6af0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.642bf71e.js",
+    "static/js/2.173d6af0.chunk.js",
+    "static/css/main.cbb7af86.chunk.css",
+    "static/js/main.b483cc12.chunk.js"
+  ]
+}
